@@ -32,3 +32,5 @@ Para instalar o json-server, bastar executar o seguinte comando:
  
  ###### O subscribe é um dos operadores mais importantes do Observable da biblioteca RxJS, ele notificará assim que a resposta vier e for transformada em Json, nos retornando um array 
  *json-server --watch src/assets/data/db.json - Para rodar o backend, no caso o json*
+ 
+ Tutorial:https://medium.com/@fernandoevangelista_28291/consumindo-api-rest-com-httpclient-no-angular-8-62c5d733ffb6
