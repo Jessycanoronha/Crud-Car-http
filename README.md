@@ -1,5 +1,5 @@
 ## Angular HttpClient
-![Imagem](1.png)
+<img src="1.png">
 
 Comunicação entre cliente e servidor usando o  protocolo http
 post()
